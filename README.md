@@ -1,47 +1,25 @@
-# Blinkit-Sales-Analysis-Dashboard
-# Blinkit Sales Analysis Dashboard 📊
+Project Overview
+This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
 
-An interactive **Power BI dashboard** that provides in-depth analysis of **Blinkit sales performance**, covering revenue trends, product categories, and regional distribution.  
+Key Performance Indicators (KPIs)
+The dashboard focuses on the following primary KPIs:
 
-## 📌 Overview
-This project is focused on analyzing Blinkit’s sales data to identify key trends, customer preferences, and revenue drivers. The dashboard helps stakeholders make data-driven decisions by providing visual insights into sales performance.
-
-## 🛠️ Tech Stack
-- **Power BI** – Dashboard design & visualization
-- **Excel / CSV** – Data source
-- **DAX** – Measures and calculated columns
-
-## 📂 Project Files
-- `Blinkit_Sales_Analysis.pbix` → Power BI dashboard file  
-- `images/` → Screenshots of the dashboard (add your screenshots here)  
-- `README.md` → Project documentation  
-
-## 📊 Dashboard Features
-- **Revenue Analysis** – Track total sales & revenue growth  
-- **Top Products** – Identify best-selling items  
-- **Category Performance** – Compare across product categories  
-- **Regional Insights** – Sales trends by location  
-- **KPIs & Drill-through** – Dynamic filters and interactive visuals  
-
-## 🚀 How to Use
-1. Clone this repository or download the `.pbix` file.  
-2. Open it in **Power BI Desktop**.  
-3. Refresh data sources (if dataset is included).  
-4. Explore the dashboard interactively.  
-
-## 📸 Sample Dashboard Preview
-(Add screenshots here — e.g., `images/dashboard_overview.png`)  
-
-## 🔑 Key Insights
-- Which product categories generate the most revenue  
-- Seasonal or monthly sales trends  
-- Regional performance differences  
-- Contribution of top products to overall sales  
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
-✨ *If you find this project helpful, feel free to star ⭐ the repo!*  
+Total Sales: Overall revenue generated from all items sold ($1.20M)
+Average Sales: Average revenue per sale ($141)
+Number of Items: Total count of different items sold (8523)
+Average Rating: Average customer rating for items sold (3.9 out of 5)
+Features
+Filter Panel: Allows users to filter data by outlet location type, outlet size, and item type
+Outlet Establishment Trend: Visualizes the growth of outlet establishments from 2012 to 2022
+Fat Content Analysis: Breaks down sales by low fat and regular fat products
+Item Type Distribution: Shows sales distribution across various product categories
+Outlet Size and Location Analysis: Provides insights on sales performance by outlet size and location tier
+Outlet Type Comparison: Compares different outlet types based on sales, number of items, average sales, ratings, and item visibility
+Insights and Conclusions
+Strong overall sales performance with over $1M in total sales
+Consumer preference for low-fat products, indicating health-conscious buying habits
+Fruits, vegetables, and snack foods are the top-selling categories
+Medium-sized outlets in Tier 3 locations show the highest profitability
+Supermarkets generate higher sales volumes, while grocery stores have better item visibility
+NOTE: This analysis was conducted as part of a project and is for educational purposes only.
 
